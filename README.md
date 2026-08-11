@@ -14,6 +14,8 @@
 
 <p data-importer="text" align="left">- 🔭 I’m working as a Softwareengineer</p>
 
+<p data-importer="text" align="left">- Check out https://github.com/Power-Components/livewire-powergrid </p>
+
 ###
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
