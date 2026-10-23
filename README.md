@@ -1,51 +1,45 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.tenor.com/0bkQjO3bqQ4AAAAi/remilia-remilia-scarlet.gif"  />
-</div>
+# Hey, I'm `0z3` 👋
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=600&lines=Software+Engineer;Open+Source+Contributor;Building+things+that+matter;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<p align="center">
+  <a href="https://github.com/0z3">
+    <img src="https://img.shields.io/badge/GitHub-0z3-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
+</p>
 
-###
+## About me
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+I'm a software engineer who enjoys building useful things, solving problems, and learning how things work.
 
-###
+Outside of work, I like contributing to open source. If I'm using a project, find a bug, or see something that could be improved, I enjoy giving a little back to the people building the tools we all rely on.
 
-<p data-importer="text" align="left">- 🔭 I’m working as a Softwareengineer</p>
+- 💻 Software engineer who enjoys writing clean, maintainable code
+- 🛠️ Open-source contributor
+- 🌱 Always learning and experimenting
+- 🤝 Big believer in community-driven software
 
-<p data-importer="text" align="left">- Check out https://github.com/Power-Components/livewire-powergrid </p>
+## My `/dev/null` activity
 
-###
+<p align="center">
+  <a href="https://dev-null.sh/@0z3">
+    <img src="https://dev-null.sh/@0z3/graph.svg?theme=dark" alt="/dev/null activity graph" width="100%"/>
+  </a>
+</p>
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<p align="center">
+  <a href="https://github.com/0z3">
+    <img src="https://img.shields.io/badge/Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
+  </a>
+</p>
 
-###
+<p align="center">
+  <i>Thanks for stopping by! 🚀</i>
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=0z3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=100&section=footer" width="100%" alt="Footer"/>
+</p>
